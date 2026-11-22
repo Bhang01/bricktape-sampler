@@ -8,7 +8,7 @@ Load or record samples, chop them, split songs into vocals / drums / bass / othe
 
 ## Download
 
-**[Latest release: v1.6.4 beta](https://github.com/Bhang01/bricktape-sampler/releases/latest)**: get `BrickTape_Sampler_v1.6.4-beta_Knulli_TrimUI_Brick.zip` from the release's Assets.
+**[BrickTape Sampler v1.6.4 beta](https://github.com/Bhang01/bricktape-sampler/releases/tag/v1.6.4-beta)**: get `BrickTape_Sampler_v1.6.4-beta_Knulli_TrimUI_Brick.zip` from the release's Assets. All releases are on the [Releases page](https://github.com/Bhang01/bricktape-sampler/releases).
 
 ## Install
 
