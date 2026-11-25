@@ -12,8 +12,11 @@ Program beats with 6 pages and song mode, play them live through 16 performance 
 
 ## Install
 
+**Updating from 1.12:** only 2 files change. Open the downloaded zip, go into **roms → ports → bricktape**, and drag **`bricktape`** and **`README.md`** into the same folder on the Brick's SD card (the card is called **SHARE**), choosing **Replace**. Your projects, samples and kits stay as they are.
+
+**First install, or updating from 1.6.4:**
 1. Unzip the release on your computer.
-2. Copy its `roms` folder onto the SD card's share partition (the one with the `roms` folder), merging folders. Your projects, recordings, presets, kits and own samples are kept.
+2. Copy its `roms` folder onto the SD card's share partition (the one with the `roms` folder), **merging** it with the `roms` folder already there — don't replace that folder, or your other games and apps on the card would be removed. On a **Mac**, hold **Option** while you drag, then click **Merge**. On **Windows**, a plain drag merges the folders.
 3. On the Brick, open **Ports → BrickTape Sampler**. If it isn't listed: *Main menu → Game settings → Update gamelists*.
 4. Press each button once on the first-launch setup screen (and the PLAY button when asked), then put your samples in `roms/ports/bricktape/samples/My Sounds/`.
 
